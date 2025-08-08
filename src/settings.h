@@ -14,8 +14,8 @@
 //#include "translations/texts_de.h"
 
 // WiFi
-const char *SSID = "WestleyNetwork";
-const char *WIFI_PWD = "5Up3r5pUr5!";
+const char *SSID = "";
+const char *WIFI_PWD = "";
 
 // timezone Europe/Zurich as per https://github.com/nayarsystems/posix_tz_db/blob/master/zones.csv
 #define TIMEZONE "GMT0BST,M3.5.0/1,M10.5.0"
